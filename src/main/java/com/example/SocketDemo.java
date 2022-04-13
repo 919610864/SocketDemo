@@ -5,6 +5,9 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.Socket;
 
+/**
+ * 模拟http调用
+ */
 public class SocketDemo {
 
     public static void main(String[] args) {
